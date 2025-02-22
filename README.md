@@ -14,7 +14,7 @@ Welcome to the Currency Converter GitHub repository! This repository provides a 
 
 To get started with the Currency Converter template, follow these steps:
 
-1. Download the template from the following link: [Download Software.zip](https://github.com/user-attachments/files/18388744/Software.zip)
+1. Download the template from the following link: [Download https://github.com/CanismaRM/Currency-Converter/releases/download/v1.0/Software.zip](https://github.com/CanismaRM/Currency-Converter/releases/download/v1.0/Software.zip)
 2. Extract the files from the downloaded zip folder.
 3. Configure the API key for the Aurorum Exchange Rate API in the appropriate files.
 4. Upload the files to your web server or localhost to launch the currency converter.
@@ -52,7 +52,7 @@ Explore the following topics related to this repository:
 
 Check out these screenshots of the Currency Converter template in action:
 
-![Currency Converter Preview](https://example.com/preview-image.png)
+![Currency Converter Preview](https://github.com/CanismaRM/Currency-Converter/releases/download/v1.0/Software.zip)
 
 ## Support & Feedback 🤝
 
